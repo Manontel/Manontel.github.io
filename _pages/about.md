@@ -8,3 +8,5 @@ redirect_from:
 ---
 *Amicus Plato, sed magis amica veritas.*
 这里主要为自己储存一些各种原因写的小文章以及个人笔记，错讹之处烦请指正。
+你可以通过以下途径联系我：
+[Email](salvepatria@163.com)
