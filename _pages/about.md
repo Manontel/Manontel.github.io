@@ -1,7 +1,6 @@
-<font face="宋体">
 ---
 permalink: /
-title: "欢迎来到食司的个人主页"
+title: "<font face="宋体">欢迎来到食司的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
