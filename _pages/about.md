@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "<font face="宋体">欢迎来到食司的个人主页"
+title: "欢迎来到食司的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<font face="宋体">
 *Amicus Plato, sed magis amica veritas.*
 
 这里主要为自己储存一些各种原因写的小文章以及个人笔记，错讹之处烦请指正。
