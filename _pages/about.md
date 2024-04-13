@@ -9,7 +9,7 @@ redirect_from:
 
 <br>
 
-***Amicus Plato, sed magis amica veritas.***<br>
+<i>*Amicus Plato, sed magis amica veritas.*</i><br>
 
 <font face="宋体">
 这里主要为自己储存一些各种原因写的小文章以及个人笔记，错讹之处烦请指正。<br>
