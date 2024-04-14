@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<br>
-
-<i>Amicus Plato, sed magis amica veritas.</i><br>
+<i>Amicus Plato, sed magis amica veritas.</i>
 
 <font face="宋体">
-这里主要为自己储存一些各种原因写的小文章以及个人笔记，错讹之处烦请指正。<br>
+这里主要为自己储存一些各种原因写的小文章以及个人笔记，错讹之处烦请指正。
   
-您可以通过以下途径联系我：<br>
+您可以通过以下途径联系我：
 
 Email:salvepatria@163.com
